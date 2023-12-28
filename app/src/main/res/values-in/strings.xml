@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story Hub Submission 2</string>
+
+    // Splash
+    <string name="logo_github">Logo</string>
+    <string name="by_dnr" translatable="false">oleh dwinovirhmwt</string>
+
+    // Login
+    <string name="logo_login">Logo Login</string>
+    <string name="title_login_page">Selamat datang di Story Hub</string>
+    <string name="message_login_page">Masuk sekarang untuk melanjutkan</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="no_have_account">Belum punya akun?</string>
+    <string name="register">Daftar</string>
+    <string name="error_field_empty">Permintaan Anda tidak dapat diproses</string>
+
+    // Register
+    <string name="title_register_page">Buat Akun Baru</string>
+    <string name="name">Nama</string>
+    <string name="enter_name">Masukkan nama Anda</string>
+    <string name="enter_email">Masukkan surel Anda</string>
+    <string name="enter_password">Masukkan kata sandi Anda</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="invalid_email">Alamat surel tidak valid!</string>
+    <string name="password_too_short">Kata sandi harus minimal 8 karakter</string>
+
+    // Detail Page
+    <string name="detail_story">Detail Cerita</string>
+    <string name="title_detail">Judul Detail</string>
+    <string name="description_detail">Deskripsi Detail</string>
+
+    // Main Page
+    <string name="image_story">Gambar Cerita</string>
+    <string name="create">Buat Postingan</string>
+
+    // Upload Page
+    <string name="upload_Story">Unggah Cerita</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Masukkan deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="permission_granted">Permintaan izin disetujui</string>
+    <string name="permission_denied">Permintaan izin ditolak</string>
+    <string name="error_field_required">Kolom ini harus diisi</string>
+    <string name="failed_upload_image">Gagal mengunggah gambar</string>
+    <string name="no_media_selected">Tidak ada media yang dipilih</string>
+    <string name="add_location">Tambahkan Lokasi</string>
+    <string name="location_not_found">Lokasi tidak ditemukan. Coba lagi</string>
+
+    // Camera Page
+    <string name="camera_failed">Gagal memuat kamera!</string>
+    <string name="image_failed">Gagal menangkap gambar!</string>
+
+    // Menu
+    <string name="map">Peta</string>
+    <string name="language">Bahasa</string>
+    <string name="logout">Keluar</string>
+
+    // Maps Page
+    <string name="load_failed">Gagal Memuat</string>
+
+    <string name="retry">Coba Lagi</string>
+</resources>

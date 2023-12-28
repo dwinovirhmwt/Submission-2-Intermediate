@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryHubSubmission2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorSecondary">@color/white</item>
+
+        <item name="colorAccent">@color/black1</item>
+
+    </style>
+
+    <style name="EditTextHintStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:textSize">12sp</item> <!-- Ganti dengan ukuran yang diinginkan -->
+        <item name="android:textColorHint">@color/grey</item> <!-- Ganti dengan warna yang diinginkan -->
+    </style>
+
+    <style name="Theme.StoryHubSubmission2" parent="Base.Theme.StoryHubSubmission2" />
+</resources>
